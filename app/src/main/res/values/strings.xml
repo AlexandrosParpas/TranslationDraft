@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="speech_prompt">Say something</string>
+    <string name="speech_not_supported">Sorry. Your device doesn\'t support speech recognition</string>
+    <string name="tap_on_mic">Tap on a flag to speak the language</string>
+    <string name="input_text">Recognised Text</string>
+    <string name="translated_text">Translated text</string>
+
+
+</resources>
